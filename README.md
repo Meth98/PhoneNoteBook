@@ -17,6 +17,6 @@ A Python Script that manages an agenda where you can put some your information, 
 
 &nbsp;&nbsp; To modify all the informations -> -m|--mod b [surname] [name] [new_phone_number] [new_description] <br>
 
-3 - To remove a contact (if there are more of one contact with this surname, you should put also the name): -r|--rem -r [surname] <br>
+3 - To remove a contact (include the first name for duplicate surnames): -r|--rem -r [surname] <br>
 
 4 - To search a contact: -s|--search -s surname [name]
