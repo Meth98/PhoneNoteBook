@@ -11,11 +11,11 @@ A Python Script that manages an agenda where you can put some your information, 
 
 2 - To modify a contact: <br>
 
-&nbsp;&nbsp;&nbsp; To modify a phone number: -m|--mod t [surname] [name] [new_phone_number] <br>
+&nbsp;&nbsp;&nbsp;&nbsp; To modify a phone number: -m|--mod t [surname] [name] [new_phone_number] <br>
 
-&nbsp;&nbsp;&nbsp; To modify a description: -m|--mod c [surname] [name] [new_description] <br>
+&nbsp;&nbsp;&nbsp;&nbsp; To modify a description: -m|--mod c [surname] [name] [new_description] <br>
 
-&nbsp;&nbsp;&nbsp; To modify all the informations -> -m|--mod b [surname] [name] [new_phone_number] [new_description] <br>
+&nbsp;&nbsp;&nbsp;&nbsp; To modify all the informations -> -m|--mod b [surname] [name] [new_phone_number] [new_description] <br>
 
 3 - To remove a contact (include the first name for duplicate surnames): -r|--rem -r [surname] <br>
 
