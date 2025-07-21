@@ -3,6 +3,7 @@
 A Python Script that manages an agenda where you can put some your information, modify them, remove them or search them
 <hr>
 USAGE:
+
 python MyPhoneNoteBook.py [options] [params] <br> <br>
 
 1 - To add a new contact: python MyPhoneNoteBook.py -a|--add [surname] [name] [phone_number] [description(optional)] <br>
