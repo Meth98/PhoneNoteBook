@@ -2,9 +2,8 @@
 
 A Python Script that manages an agenda where you can put some your information, modify them, remove them or search them
 <hr>
-<em><strong> USAGE: </strong></em><br>
-
-python MyPhoneNoteBook.py [options] [params] <br> <br>
+<em><strong> USAGE: </strong></em><br><br>
+&nbsp; python MyPhoneNoteBook.py [options] [params] <br> <br>
 
 <em><strong> Options and params: </strong></em><br>
 
