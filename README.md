@@ -6,7 +6,7 @@ USAGE:
 
 python MyPhoneNoteBook.py [options] [params] <br> <br>
 
-Options and params: <br>
+<em><strong> Options and params: </strong></em><br>
 
 1 - To add a new contact: -a|--add [surname] [name] [phone_number] [description(optional)] <br>
 
