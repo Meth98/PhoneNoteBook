@@ -1,5 +1,6 @@
 # PhoneNoteBook
 A Python Script that manages an agenda where you can put some your information, modify them, remove them or search them
+<hr>
 
 ### USAGE
 &nbsp;&nbsp; ``` python MyPhoneNoteBook.py [options] [params] ```
